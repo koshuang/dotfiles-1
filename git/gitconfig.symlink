@@ -119,6 +119,7 @@
     frag = magenta bold
     old = red bold
     new = green bold
+    whitespace = red reverse
 [color "status"]
     added = green bold
     changed = yellow bold
@@ -161,3 +162,6 @@
 	clean = git-lfs clean %f
 	smudge = git-lfs smudge %f
 	required = true
+[hub]
+	host = git.acadine.com
+	protocol = https

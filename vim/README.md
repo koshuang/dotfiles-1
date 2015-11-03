@@ -1,0 +1,3 @@
+# Shortcuts
+
+* comment out: gcc
