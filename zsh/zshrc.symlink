@@ -81,9 +81,6 @@ compinit
 
 # for config ($ZSH/**/*completion.sh) source $config
 
-alias vi='/usr/local/bin/nvim'
-alias docker-sh="bash --login '/Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/start.sh'"
-alias firefox="/Applications/FirefoxNightly.app/Contents/MacOS/firefox"
 
 # hub setting
 GITHUB_ENTERPRISE_DOMAIN=git.acadine.com
