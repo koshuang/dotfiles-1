@@ -14,7 +14,7 @@ Welcome to my world. This is a collection of vim, tmux, and zsh configurations.
 
 ## Install
 
-1. `git clone https://github.com/nicknisi/dotfiles.git ~/.dotfiles`
+1. `git clone https://github.com/koshuang/dotfiles-1.git ~/.dotfiles`
 1. `cd ~/.dotfiles`
 1. `./install.sh`
 
